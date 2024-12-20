@@ -22,15 +22,6 @@ Deployed URL: https://team341-soen341project-w2024-lm14y6tqc-soen341.vercel.app/
 
 This comprehensive system enhances efficiency and user experience in the car rental industry.
 
-## Team Members
-
-- Hrag Bankian (40245363): Quality Control, Organizational Manager, Full Stack Developer
-- Sevag Merdkhanian (40247912): Full Stack Developer
-- Élian Gadbois-Roy (40208293): Meeting Secretary, Full Stack Developer
-- Johnny Dang (40245598): Scrum Master, Full Stack Developer
-- David Cohen (40130406): Full Stack Developer
-- Harun Slahaldin Omar (40250981): Full Stack Developer
-
 ## Built With
 
 - [Next.js](https://nextjs.org/)
