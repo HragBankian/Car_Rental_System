@@ -1,6 +1,6 @@
 # Car Rental System
 
-Car Rental Application for browsing, filtering and renting available vehicles.
+Web application for browsing, filtering and renting available vehicles.
 
 ## Description
 
