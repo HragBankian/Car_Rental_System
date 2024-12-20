@@ -1,6 +1,6 @@
 # Car Rental System
 
-This project is a Car Rental Application for Customers, Customer Service Representatives and System Administrators
+Car Rental Application for customers and customer service representatives.
 
 ## Description
 
