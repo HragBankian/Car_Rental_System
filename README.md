@@ -1,6 +1,6 @@
 # Car Rental System
 
-Car Rental Application for customers and customer service representatives.
+Car Rental Application for browsing, filtering and renting available vehicles.
 
 ## Description
 
