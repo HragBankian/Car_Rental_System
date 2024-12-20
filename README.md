@@ -1,4 +1,4 @@
-# Team341's Car Rental Application!
+# Car Rental System!
 
 This project is a Car Rental Application for Customers, Customer Service Representatives and System Administrators
 
